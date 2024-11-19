@@ -1,0 +1,10 @@
+{
+    "Images": [".jpeg", ".jpg", ".png", ".gif", ".svg", ".webp"],
+    "Videos": [".mp4", ".avi", ".mov"],
+    "Documents": [".pdf", ".docx", ".doc", ".txt", ".pptx", ".ppt", ".drawio"],
+    "Data": [".csv", ".json", ".xml", ".xlsx", "xls", ".parquet"],
+    "Archives": [".zip", ".rar", ".7z", ".tgz"],
+    "Code": [".bash", ".sh", ".py", ".scala", ".html", ".yml", ".dbc", ".ipynb", ".pbi", ".pbix", ".pbit", ".sql", ".ps1"],
+    "Network": [".rdp"],
+    "Keys": [".pem", ".ppk"]
+}
